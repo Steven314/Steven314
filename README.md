@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello
 
-<!--
-**Steven314/Steven314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Steven314"><img src="www/hex-logo.png" height="200" align="right" alt="hex sticker"/></a>
 
-Here are some ideas to get you started:
+I'm some mixture of Data Scientist and Econometrician that is working as a Business Insights Analyst at the [University of Toledo](https://www.utoledo.edu/).
+The majority of my work is done in [R](https://www.r-project.org/).
+Specifically, [Quarto](https://quarto.org/) and [Shiny](https://shiny.posit.co/) to build analytical reports and dashboards.
+I also use SQL and [Python](https://www.python.org/) on occasion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prior to my BI Analyst work, I developed software to run experiments in [photovoltaics research](https://www.utoledo.edu/research/pvic/) as well as scripts to analyze that experimental data.
+
+Outside of my academics and work, I am a Christian and a runner.
+I regularly run the AV equipment at my church, and have created a few niche tech solutions there utilizing a [Raspberry Pi](https://www.raspberrypi.com/).
+I also use [Obsidian](https://obsidian.md/) regularly to take notes in my personal studies and recordkeeping.
