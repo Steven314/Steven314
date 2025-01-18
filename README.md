@@ -13,5 +13,5 @@ Outside of my academics and work, I am a Christian and a runner.
 I regularly run the AV equipment at my church, and have created a few niche tech solutions there utilizing a [Raspberry Pi](https://www.raspberrypi.com/).
 I also use [Obsidian](https://obsidian.md/) regularly to take notes in my personal studies and recordkeeping.
 
-I use a Colemak keyboad layout on a [ZSA Moonlander](https://www.zsa.io/moonlander).
+I use a Colemak keyboard layout on a [ZSA Moonlander](https://www.zsa.io/moonlander).
 My current layout is available here: [Oryx](https://configure.zsa.io/moonlander/layouts/jYavJ/latest/0).
